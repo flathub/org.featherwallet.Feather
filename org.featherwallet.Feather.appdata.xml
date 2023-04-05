@@ -54,6 +54,7 @@
 	<url type="vcs-browser">https://github.com/feather-wallet/feather</url>
 
 	<releases>
+		<release version="2.4.5" date="2023-04-05"/>
 		<release version="2.4.4" date="2023-03-23">
 			<description>
 				<ul>
@@ -74,7 +75,7 @@
 					<li>Receive: added a column that shows the subaddress index</li>
 					<li>opening more than 3 wallets will no longer cause the application to freeze</li>
 					<li>new wallets should now always start syncing from the current blockheight</li>
-					<li>typing composed characters (e.g. ‘e -> é) now works</li>
+					<li>typing composed characters (e.g. ‘e -&gt; é) now works</li>
 					<li>nodes: the IP range 100.64/10 is now considered local</li>
 					<li>DebugInfo: added Proxy information</li>
 					<li>stack trace: added version and OS info to log output</li>
