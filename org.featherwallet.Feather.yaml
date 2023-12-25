@@ -89,8 +89,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/feather-wallet/feather
-        tag: 2.4.9
-        commit: ca1e3fc9993531eff72969c4aa4c00808e47f6e1
+        tag: 2.6.1
+        commit: 1194f780e4a7ee0ff2c4e1be32158c79b3845166
         x-checker-data:
           type: git
           tag-pattern: ^([\d.]+)$
