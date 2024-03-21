@@ -5,7 +5,7 @@
 	<project_license>BSD-3-Clause</project_license>
 	<name>Feather</name>
 	<summary>Monero desktop wallet</summary>
-
+        <developer_name>The Feather Wallet developers</developer_name>
 	<description>
     		<p>Feather is a Monero wallet for desktop with the following features:</p>
 		<ul>
